@@ -5,3 +5,5 @@ In this project, written Resume Web application using Java technologies: Spring 
 The user interface is built using HTML5, CSS3, Bootstrap, JQuery.
 
 PostgreSQL is used for long-term data storage.
+
+Using JavaConfig.
